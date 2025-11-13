@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "thefury4",
+    "email": "[email protected]"
+  },
+  "records": {
+    "A": ["152.53.138.74"]
+  },
+  "proxied": true,
+  "redirect_config": {
+    "custom_paths": {
+      "/linkedin": "https://www.linkedin.com/in/emanuele-furina/"
+    },
+    "redirect_paths": true
+  }
+}
